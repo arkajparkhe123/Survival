@@ -1,5 +1,5 @@
 File name = "pancancerInfo"
-Import packages = 'survival' , 'srvminer' , 'tidyr'.
+Import libraries = 'survival' , 'srvminer' , 'tidyr'.
 In data set we drop the na values
 Convert the name of age column
 Convert the name of delay column to os
